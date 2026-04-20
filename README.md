@@ -12,6 +12,8 @@ Electron main process to add full Linux support.
 - Click on system notification → focuses the app
 - No menu bar (File/Edit/View removed)
 - App icon in taskbar
+- Start minimized option (tray menu toggle + `--start-minimized` flag)
+
 
 ## Install
 
